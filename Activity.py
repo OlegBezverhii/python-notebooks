@@ -51,7 +51,7 @@ from pynput import mouse
 def func_mouse():
         with mouse.Events() as events:
             for event in events:
-                if event == mouse.Events.Scroll or mouse.Events.Click:
+                if event:
                     #print('Переместил мышку/нажал кнопку/скролл колесиком: {}\n'.format(event))
                     print('Делаю половину громкости: ', time.ctime())
                     Sound.volume_set(volum_half)
