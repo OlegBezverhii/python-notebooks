@@ -5,3 +5,4 @@
 - [Activity.py](/Activity.py) ([Activity.ipynb](/Activity.ipynb)) - исходный код программы для статьи на Habr: https://habr.com/ru/post/563124/
 - [Dlib for Windows 10 x64](/For%20dlibs/) - если лень компилировать самому или что-то пошло не так из статьи выше
 - [hack golosovanie.py](/hack%20golosovanie.py) - пример просто кода, как можно заспамить сайт запросами и накрутить голосование
+- [KNPZ_messages.ipynb](/KNPZ_messages.ipynb) - была задача найти разницу в строках БД, где соседние даты различались.
